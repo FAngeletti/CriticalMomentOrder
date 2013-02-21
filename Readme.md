@@ -36,6 +36,6 @@ an adhoc test framework which has not stood the test of time. However, the scrip
 for the sake of scientific reproducibility. The more interesting scripts are probably the diverse
 variants of test*.m which lay in the Demos sub-directory. 
 
-One should note The generation of correlated random variable are
+One should note that the generation of correlated random variable are
 assured by an external matlab package available at http://www.hermir.org. 
 
